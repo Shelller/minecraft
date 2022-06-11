@@ -1,0 +1,5 @@
+name: Pack
+version: '${project.version}'
+api-version: 1.19
+main: shelller.pack.Core
+authors: [ shelller ]
