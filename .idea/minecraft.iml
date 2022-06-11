@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/plugins/pack/target" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/pack/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/pack/temp/voicechat-bukkit-1.19-2.2.44" />
+      <excludeFolder url="file://$MODULE_DIR$/plugins/pack/temp/mobleash" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/gamingbarn-guns" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/navilla-sounds" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/deep-fried" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/ultimacraft-interface" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/3d-default" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/clear-gui" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/ultimacraft-enchantments" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/faithful" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/faithful-ambient" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/enchanted-vanilla" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/cow" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/immersive-soundscapes" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/3d-classic" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/ultimacraft-hr" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/ultimacraft" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/bitbetter" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/ultimacraft-models" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/ultimacraft-mobs" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/ultimacraft-leaf" />
+      <excludeFolder url="file://$MODULE_DIR$/pack/temp/ultimacraft-pbr" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

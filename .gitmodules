@@ -1,0 +1,28 @@
+[submodule "ver/1.18"]
+	path = version/1.18
+	url = https://github.com/shelller/minecraft
+	branch = ver/1.18
+[submodule "ver/1.19"]
+	path = version/1.19
+	url = https://github.com/shelller/minecraft
+	branch = ver/1.19
+[submodule "dat/pack"]
+	path = pack/dat/pack
+	url = https://github.com/shelller/minecraft
+	branch = dat/pack
+[submodule "plu/pack"]
+	path = pack/plu/pack
+	url = https://github.com/shelller/minecraft
+	branch = plu/pack
+[submodule "res/pack"]
+	path = pack/res/pack
+	url = https://github.com/shelller/minecraft
+	branch = res/pack
+[submodule "sha/pack"]
+	path = pack/sha/pack
+	url = https://github.com/shelller/minecraft
+	branch = sha/pack
+[submodule "ser/core"]
+	path = server/core
+	url = https://github.com/shelller/minecraft
+	branch = ser/core
